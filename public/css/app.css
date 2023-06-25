@@ -1,0 +1,24 @@
+.hide {
+    display: none;
+}
+.content {
+    max-width: 700px;
+    margin: 0 auto;
+}
+.shorten-url-form {
+    min-height: 90px;
+    padding: 10px;
+    margin-top: 20px;
+}
+.shorten-url-form__input {
+    min-width: 500px;
+}
+.shorten-url-form__btn {
+    cursor: pointer;
+}
+.shorten-url-form__result {
+    padding: 10px 0;
+}
+.last-urls-table td, .last-urls-table th {
+    padding: 10px;
+}
